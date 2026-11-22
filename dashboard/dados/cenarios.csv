@@ -1,0 +1,309 @@
+hotel_id,hotel,tier,ano,cenario,avaliacoes,nota_media
+H01,Alder & Quay Hotel,upscale,2027,Billing and charges,38,1.6578947368421053
+H01,Alder & Quay Hotel,upscale,2027,Breakfast and food,48,3.8333333333333335
+H01,Alder & Quay Hotel,upscale,2027,Check-in and queue,50,2.82
+H01,Alder & Quay Hotel,upscale,2027,Cleanliness,35,2.0
+H01,Alder & Quay Hotel,upscale,2027,Stay exceeded expectations,111,4.837837837837838
+H01,Alder & Quay Hotel,upscale,2027,Group or family stay,23,3.9565217391304346
+H01,Alder & Quay Hotel,upscale,2027,Location and access,61,4.770491803278689
+H01,Alder & Quay Hotel,upscale,2027,Noise and sleep,46,2.4565217391304346
+H01,Alder & Quay Hotel,upscale,2027,Room condition,60,2.566666666666667
+H01,Alder & Quay Hotel,upscale,2027,Service recovery,63,4.365079365079365
+H01,Alder & Quay Hotel,upscale,2027,Wifi and connectivity,35,2.914285714285714
+H01,Alder & Quay Hotel,upscale,2028,Billing and charges,48,1.5625
+H01,Alder & Quay Hotel,upscale,2028,Breakfast and food,68,3.911764705882353
+H01,Alder & Quay Hotel,upscale,2028,Check-in and queue,56,2.8214285714285716
+H01,Alder & Quay Hotel,upscale,2028,Cleanliness,42,1.6428571428571428
+H01,Alder & Quay Hotel,upscale,2028,Stay exceeded expectations,106,4.90566037735849
+H01,Alder & Quay Hotel,upscale,2028,Group or family stay,21,4.190476190476191
+H01,Alder & Quay Hotel,upscale,2028,Location and access,64,4.703125
+H01,Alder & Quay Hotel,upscale,2028,Noise and sleep,57,2.491228070175439
+H01,Alder & Quay Hotel,upscale,2028,Room condition,69,2.5942028985507246
+H01,Alder & Quay Hotel,upscale,2028,Service recovery,65,4.415384615384616
+H01,Alder & Quay Hotel,upscale,2028,Wifi and connectivity,38,3.1578947368421053
+H02,The Lantern House,boutique,2027,Billing and charges,21,1.5714285714285714
+H02,The Lantern House,boutique,2027,Breakfast and food,16,3.875
+H02,The Lantern House,boutique,2027,Check-in and queue,15,3.2666666666666666
+H02,The Lantern House,boutique,2027,Cleanliness,18,2.111111111111111
+H02,The Lantern House,boutique,2027,Stay exceeded expectations,27,4.962962962962963
+H02,The Lantern House,boutique,2027,Group or family stay,12,4.166666666666667
+H02,The Lantern House,boutique,2027,Location and access,23,4.695652173913044
+H02,The Lantern House,boutique,2027,Noise and sleep,19,2.3684210526315788
+H02,The Lantern House,boutique,2027,Room condition,27,2.6666666666666665
+H02,The Lantern House,boutique,2027,Service recovery,23,4.217391304347826
+H02,The Lantern House,boutique,2027,Wifi and connectivity,13,2.8461538461538463
+H02,The Lantern House,boutique,2028,Billing and charges,23,1.9130434782608696
+H02,The Lantern House,boutique,2028,Breakfast and food,14,3.857142857142857
+H02,The Lantern House,boutique,2028,Check-in and queue,14,2.9285714285714284
+H02,The Lantern House,boutique,2028,Cleanliness,12,2.0833333333333335
+H02,The Lantern House,boutique,2028,Stay exceeded expectations,33,4.787878787878788
+H02,The Lantern House,boutique,2028,Group or family stay,12,4.333333333333333
+H02,The Lantern House,boutique,2028,Location and access,30,4.7
+H02,The Lantern House,boutique,2028,Noise and sleep,15,2.3333333333333335
+H02,The Lantern House,boutique,2028,Room condition,26,2.576923076923077
+H02,The Lantern House,boutique,2028,Service recovery,17,4.470588235294118
+H02,The Lantern House,boutique,2028,Wifi and connectivity,10,3.1
+H03,Marisol Bay Resort,luxury,2027,Billing and charges,55,1.690909090909091
+H03,Marisol Bay Resort,luxury,2027,Breakfast and food,59,3.9661016949152543
+H03,Marisol Bay Resort,luxury,2027,Check-in and queue,55,3.036363636363636
+H03,Marisol Bay Resort,luxury,2027,Cleanliness,42,1.880952380952381
+H03,Marisol Bay Resort,luxury,2027,Stay exceeded expectations,135,4.888888888888889
+H03,Marisol Bay Resort,luxury,2027,Group or family stay,21,3.9523809523809526
+H03,Marisol Bay Resort,luxury,2027,Location and access,93,4.612903225806452
+H03,Marisol Bay Resort,luxury,2027,Noise and sleep,71,2.535211267605634
+H03,Marisol Bay Resort,luxury,2027,Room condition,85,2.635294117647059
+H03,Marisol Bay Resort,luxury,2027,Service recovery,89,4.382022471910112
+H03,Marisol Bay Resort,luxury,2027,Wifi and connectivity,42,2.857142857142857
+H03,Marisol Bay Resort,luxury,2028,Billing and charges,62,1.8870967741935485
+H03,Marisol Bay Resort,luxury,2028,Breakfast and food,63,3.7936507936507935
+H03,Marisol Bay Resort,luxury,2028,Check-in and queue,70,2.9285714285714284
+H03,Marisol Bay Resort,luxury,2028,Cleanliness,46,1.8478260869565217
+H03,Marisol Bay Resort,luxury,2028,Stay exceeded expectations,148,4.871621621621622
+H03,Marisol Bay Resort,luxury,2028,Group or family stay,19,4.105263157894737
+H03,Marisol Bay Resort,luxury,2028,Location and access,91,4.615384615384615
+H03,Marisol Bay Resort,luxury,2028,Noise and sleep,78,2.4358974358974357
+H03,Marisol Bay Resort,luxury,2028,Room condition,76,2.6710526315789473
+H03,Marisol Bay Resort,luxury,2028,Service recovery,89,4.49438202247191
+H03,Marisol Bay Resort,luxury,2028,Wifi and connectivity,49,2.877551020408163
+H04,Harborlight Suites,upscale,2027,Billing and charges,38,1.736842105263158
+H04,Harborlight Suites,upscale,2027,Breakfast and food,58,3.6724137931034484
+H04,Harborlight Suites,upscale,2027,Check-in and queue,44,2.6363636363636362
+H04,Harborlight Suites,upscale,2027,Cleanliness,37,1.7837837837837838
+H04,Harborlight Suites,upscale,2027,Stay exceeded expectations,87,4.7701149425287355
+H04,Harborlight Suites,upscale,2027,Group or family stay,16,4.25
+H04,Harborlight Suites,upscale,2027,Location and access,38,4.473684210526316
+H04,Harborlight Suites,upscale,2027,Noise and sleep,50,2.44
+H04,Harborlight Suites,upscale,2027,Room condition,51,2.4901960784313726
+H04,Harborlight Suites,upscale,2027,Service recovery,44,4.431818181818182
+H04,Harborlight Suites,upscale,2027,Wifi and connectivity,32,2.65625
+H04,Harborlight Suites,upscale,2028,Billing and charges,37,1.6216216216216217
+H04,Harborlight Suites,upscale,2028,Breakfast and food,44,3.590909090909091
+H04,Harborlight Suites,upscale,2028,Check-in and queue,44,2.7954545454545454
+H04,Harborlight Suites,upscale,2028,Cleanliness,32,1.8125
+H04,Harborlight Suites,upscale,2028,Stay exceeded expectations,80,4.85
+H04,Harborlight Suites,upscale,2028,Group or family stay,19,3.8947368421052633
+H04,Harborlight Suites,upscale,2028,Location and access,59,4.576271186440678
+H04,Harborlight Suites,upscale,2028,Noise and sleep,56,2.392857142857143
+H04,Harborlight Suites,upscale,2028,Room condition,60,2.45
+H04,Harborlight Suites,upscale,2028,Service recovery,52,4.211538461538462
+H04,Harborlight Suites,upscale,2028,Wifi and connectivity,30,2.6
+H05,The Copper Meridian,luxury,2027,Billing and charges,20,1.9
+H05,The Copper Meridian,luxury,2027,Breakfast and food,25,3.84
+H05,The Copper Meridian,luxury,2027,Check-in and queue,22,3.090909090909091
+H05,The Copper Meridian,luxury,2027,Cleanliness,17,1.9411764705882353
+H05,The Copper Meridian,luxury,2027,Stay exceeded expectations,69,4.826086956521739
+H05,The Copper Meridian,luxury,2027,Group or family stay,14,4.285714285714286
+H05,The Copper Meridian,luxury,2027,Location and access,38,4.605263157894737
+H05,The Copper Meridian,luxury,2027,Noise and sleep,36,2.611111111111111
+H05,The Copper Meridian,luxury,2027,Room condition,37,2.7567567567567566
+H05,The Copper Meridian,luxury,2027,Service recovery,39,4.512820512820513
+H05,The Copper Meridian,luxury,2027,Wifi and connectivity,15,3.0
+H05,The Copper Meridian,luxury,2028,Billing and charges,30,1.7
+H05,The Copper Meridian,luxury,2028,Breakfast and food,25,3.84
+H05,The Copper Meridian,luxury,2028,Check-in and queue,28,2.7857142857142856
+H05,The Copper Meridian,luxury,2028,Cleanliness,29,1.896551724137931
+H05,The Copper Meridian,luxury,2028,Stay exceeded expectations,56,4.910714285714286
+H05,The Copper Meridian,luxury,2028,Group or family stay,14,4.0
+H05,The Copper Meridian,luxury,2028,Location and access,45,4.644444444444445
+H05,The Copper Meridian,luxury,2028,Noise and sleep,29,2.5517241379310347
+H05,The Copper Meridian,luxury,2028,Room condition,33,2.484848484848485
+H05,The Copper Meridian,luxury,2028,Service recovery,37,4.405405405405405
+H05,The Copper Meridian,luxury,2028,Wifi and connectivity,19,3.0
+H06,Seabright Grand,upscale,2027,Billing and charges,74,1.527027027027027
+H06,Seabright Grand,upscale,2027,Breakfast and food,93,3.774193548387097
+H06,Seabright Grand,upscale,2027,Check-in and queue,79,2.759493670886076
+H06,Seabright Grand,upscale,2027,Cleanliness,60,1.6333333333333333
+H06,Seabright Grand,upscale,2027,Stay exceeded expectations,137,4.883211678832117
+H06,Seabright Grand,upscale,2027,Group or family stay,42,3.857142857142857
+H06,Seabright Grand,upscale,2027,Location and access,89,4.617977528089888
+H06,Seabright Grand,upscale,2027,Noise and sleep,82,2.4390243902439024
+H06,Seabright Grand,upscale,2027,Room condition,86,2.488372093023256
+H06,Seabright Grand,upscale,2027,Service recovery,87,4.241379310344827
+H06,Seabright Grand,upscale,2027,Wifi and connectivity,53,2.6792452830188678
+H06,Seabright Grand,upscale,2028,Billing and charges,70,1.6857142857142857
+H06,Seabright Grand,upscale,2028,Breakfast and food,69,3.63768115942029
+H06,Seabright Grand,upscale,2028,Check-in and queue,62,2.870967741935484
+H06,Seabright Grand,upscale,2028,Cleanliness,69,1.6231884057971016
+H06,Seabright Grand,upscale,2028,Stay exceeded expectations,151,4.827814569536423
+H06,Seabright Grand,upscale,2028,Group or family stay,44,3.8181818181818183
+H06,Seabright Grand,upscale,2028,Location and access,65,4.507692307692308
+H06,Seabright Grand,upscale,2028,Noise and sleep,88,2.477272727272727
+H06,Seabright Grand,upscale,2028,Room condition,83,2.4096385542168677
+H06,Seabright Grand,upscale,2028,Service recovery,89,4.224719101123595
+H06,Seabright Grand,upscale,2028,Wifi and connectivity,61,2.5901639344262297
+H07,The Wren Rooms,boutique,2027,Billing and charges,12,1.8333333333333333
+H07,The Wren Rooms,boutique,2027,Breakfast and food,11,3.5454545454545454
+H07,The Wren Rooms,boutique,2027,Check-in and queue,14,2.7857142857142856
+H07,The Wren Rooms,boutique,2027,Cleanliness,10,1.9
+H07,The Wren Rooms,boutique,2027,Stay exceeded expectations,18,4.833333333333333
+H07,The Wren Rooms,boutique,2027,Group or family stay,5,3.4
+H07,The Wren Rooms,boutique,2027,Location and access,13,4.461538461538462
+H07,The Wren Rooms,boutique,2027,Noise and sleep,16,2.3125
+H07,The Wren Rooms,boutique,2027,Room condition,18,2.4444444444444446
+H07,The Wren Rooms,boutique,2027,Service recovery,19,4.157894736842105
+H07,The Wren Rooms,boutique,2027,Wifi and connectivity,6,2.6666666666666665
+H07,The Wren Rooms,boutique,2028,Billing and charges,15,1.4
+H07,The Wren Rooms,boutique,2028,Breakfast and food,6,3.5
+H07,The Wren Rooms,boutique,2028,Check-in and queue,17,2.823529411764706
+H07,The Wren Rooms,boutique,2028,Cleanliness,13,1.8461538461538463
+H07,The Wren Rooms,boutique,2028,Stay exceeded expectations,12,4.916666666666667
+H07,The Wren Rooms,boutique,2028,Group or family stay,7,4.0
+H07,The Wren Rooms,boutique,2028,Location and access,15,4.666666666666667
+H07,The Wren Rooms,boutique,2028,Noise and sleep,18,2.111111111111111
+H07,The Wren Rooms,boutique,2028,Room condition,16,2.1875
+H07,The Wren Rooms,boutique,2028,Service recovery,14,4.428571428571429
+H07,The Wren Rooms,boutique,2028,Wifi and connectivity,14,2.9285714285714284
+H08,Northgate Inn,economy,2027,Billing and charges,27,1.4074074074074074
+H08,Northgate Inn,economy,2027,Breakfast and food,26,3.5
+H08,Northgate Inn,economy,2027,Check-in and queue,25,2.76
+H08,Northgate Inn,economy,2027,Cleanliness,34,1.6176470588235294
+H08,Northgate Inn,economy,2027,Stay exceeded expectations,43,4.6976744186046515
+H08,Northgate Inn,economy,2027,Group or family stay,16,3.625
+H08,Northgate Inn,economy,2027,Location and access,29,4.448275862068965
+H08,Northgate Inn,economy,2027,Noise and sleep,37,2.135135135135135
+H08,Northgate Inn,economy,2027,Room condition,49,2.3877551020408165
+H08,Northgate Inn,economy,2027,Service recovery,34,4.117647058823529
+H08,Northgate Inn,economy,2027,Wifi and connectivity,27,2.814814814814815
+H08,Northgate Inn,economy,2028,Billing and charges,38,1.4473684210526316
+H08,Northgate Inn,economy,2028,Breakfast and food,27,3.5185185185185186
+H08,Northgate Inn,economy,2028,Check-in and queue,33,2.787878787878788
+H08,Northgate Inn,economy,2028,Cleanliness,41,1.5365853658536586
+H08,Northgate Inn,economy,2028,Stay exceeded expectations,47,4.638297872340425
+H08,Northgate Inn,economy,2028,Group or family stay,15,3.8
+H08,Northgate Inn,economy,2028,Location and access,25,4.36
+H08,Northgate Inn,economy,2028,Noise and sleep,51,2.176470588235294
+H08,Northgate Inn,economy,2028,Room condition,50,2.24
+H08,Northgate Inn,economy,2028,Service recovery,22,4.2272727272727275
+H08,Northgate Inn,economy,2028,Wifi and connectivity,22,2.409090909090909
+H09,Cedar & Salt Hotel,midscale,2027,Billing and charges,44,1.5909090909090908
+H09,Cedar & Salt Hotel,midscale,2027,Breakfast and food,34,3.7058823529411766
+H09,Cedar & Salt Hotel,midscale,2027,Check-in and queue,32,2.71875
+H09,Cedar & Salt Hotel,midscale,2027,Cleanliness,35,1.4
+H09,Cedar & Salt Hotel,midscale,2027,Stay exceeded expectations,56,4.928571428571429
+H09,Cedar & Salt Hotel,midscale,2027,Group or family stay,18,3.8333333333333335
+H09,Cedar & Salt Hotel,midscale,2027,Location and access,44,4.590909090909091
+H09,Cedar & Salt Hotel,midscale,2027,Noise and sleep,57,2.491228070175439
+H09,Cedar & Salt Hotel,midscale,2027,Room condition,56,2.482142857142857
+H09,Cedar & Salt Hotel,midscale,2027,Service recovery,60,4.366666666666666
+H09,Cedar & Salt Hotel,midscale,2027,Wifi and connectivity,38,2.763157894736842
+H09,Cedar & Salt Hotel,midscale,2028,Billing and charges,55,1.7272727272727273
+H09,Cedar & Salt Hotel,midscale,2028,Breakfast and food,35,3.7714285714285714
+H09,Cedar & Salt Hotel,midscale,2028,Check-in and queue,40,2.8
+H09,Cedar & Salt Hotel,midscale,2028,Cleanliness,30,1.7333333333333334
+H09,Cedar & Salt Hotel,midscale,2028,Stay exceeded expectations,71,4.859154929577465
+H09,Cedar & Salt Hotel,midscale,2028,Group or family stay,14,4.0
+H09,Cedar & Salt Hotel,midscale,2028,Location and access,51,4.431372549019608
+H09,Cedar & Salt Hotel,midscale,2028,Noise and sleep,64,2.515625
+H09,Cedar & Salt Hotel,midscale,2028,Room condition,67,2.462686567164179
+H09,Cedar & Salt Hotel,midscale,2028,Service recovery,38,4.157894736842105
+H09,Cedar & Salt Hotel,midscale,2028,Wifi and connectivity,24,2.5833333333333335
+H10,Kestrel Park Hotel,midscale,2027,Billing and charges,56,1.5892857142857142
+H10,Kestrel Park Hotel,midscale,2027,Breakfast and food,47,3.74468085106383
+H10,Kestrel Park Hotel,midscale,2027,Check-in and queue,63,2.7936507936507935
+H10,Kestrel Park Hotel,midscale,2027,Cleanliness,50,1.56
+H10,Kestrel Park Hotel,midscale,2027,Stay exceeded expectations,68,4.794117647058823
+H10,Kestrel Park Hotel,midscale,2027,Group or family stay,24,4.083333333333333
+H10,Kestrel Park Hotel,midscale,2027,Location and access,54,4.62962962962963
+H10,Kestrel Park Hotel,midscale,2027,Noise and sleep,76,2.4473684210526314
+H10,Kestrel Park Hotel,midscale,2027,Room condition,62,2.5161290322580645
+H10,Kestrel Park Hotel,midscale,2027,Service recovery,53,4.339622641509434
+H10,Kestrel Park Hotel,midscale,2027,Wifi and connectivity,42,2.5476190476190474
+H10,Kestrel Park Hotel,midscale,2028,Billing and charges,57,1.4912280701754386
+H10,Kestrel Park Hotel,midscale,2028,Breakfast and food,51,3.6666666666666665
+H10,Kestrel Park Hotel,midscale,2028,Check-in and queue,40,2.7
+H10,Kestrel Park Hotel,midscale,2028,Cleanliness,57,1.4912280701754386
+H10,Kestrel Park Hotel,midscale,2028,Stay exceeded expectations,63,4.809523809523809
+H10,Kestrel Park Hotel,midscale,2028,Group or family stay,20,3.85
+H10,Kestrel Park Hotel,midscale,2028,Location and access,62,4.580645161290323
+H10,Kestrel Park Hotel,midscale,2028,Noise and sleep,74,2.418918918918919
+H10,Kestrel Park Hotel,midscale,2028,Room condition,71,2.464788732394366
+H10,Kestrel Park Hotel,midscale,2028,Service recovery,43,4.441860465116279
+H10,Kestrel Park Hotel,midscale,2028,Wifi and connectivity,36,2.6944444444444446
+H11,The Foxglove,boutique,2027,Billing and charges,15,1.6
+H11,The Foxglove,boutique,2027,Breakfast and food,15,3.6666666666666665
+H11,The Foxglove,boutique,2027,Check-in and queue,16,2.5625
+H11,The Foxglove,boutique,2027,Cleanliness,8,1.625
+H11,The Foxglove,boutique,2027,Stay exceeded expectations,36,4.888888888888889
+H11,The Foxglove,boutique,2027,Group or family stay,6,4.333333333333333
+H11,The Foxglove,boutique,2027,Location and access,22,4.5
+H11,The Foxglove,boutique,2027,Noise and sleep,9,2.5555555555555554
+H11,The Foxglove,boutique,2027,Room condition,20,2.15
+H11,The Foxglove,boutique,2027,Service recovery,18,4.833333333333333
+H11,The Foxglove,boutique,2027,Wifi and connectivity,10,2.7
+H11,The Foxglove,boutique,2028,Billing and charges,13,1.4615384615384615
+H11,The Foxglove,boutique,2028,Breakfast and food,16,3.75
+H11,The Foxglove,boutique,2028,Check-in and queue,15,2.8
+H11,The Foxglove,boutique,2028,Cleanliness,8,1.625
+H11,The Foxglove,boutique,2028,Stay exceeded expectations,25,4.68
+H11,The Foxglove,boutique,2028,Group or family stay,9,3.888888888888889
+H11,The Foxglove,boutique,2028,Location and access,18,4.333333333333333
+H11,The Foxglove,boutique,2028,Noise and sleep,17,2.588235294117647
+H11,The Foxglove,boutique,2028,Room condition,23,2.217391304347826
+H11,The Foxglove,boutique,2028,Service recovery,15,4.4
+H11,The Foxglove,boutique,2028,Wifi and connectivity,10,2.8
+H12,Ridgeline Motor Inn,economy,2027,Billing and charges,27,1.7407407407407407
+H12,Ridgeline Motor Inn,economy,2027,Breakfast and food,15,3.466666666666667
+H12,Ridgeline Motor Inn,economy,2027,Check-in and queue,19,2.6315789473684212
+H12,Ridgeline Motor Inn,economy,2027,Cleanliness,21,1.7142857142857142
+H12,Ridgeline Motor Inn,economy,2027,Stay exceeded expectations,34,4.823529411764706
+H12,Ridgeline Motor Inn,economy,2027,Group or family stay,13,4.230769230769231
+H12,Ridgeline Motor Inn,economy,2027,Location and access,28,4.5
+H12,Ridgeline Motor Inn,economy,2027,Noise and sleep,30,2.3
+H12,Ridgeline Motor Inn,economy,2027,Room condition,38,2.4210526315789473
+H12,Ridgeline Motor Inn,economy,2027,Service recovery,16,3.875
+H12,Ridgeline Motor Inn,economy,2027,Wifi and connectivity,16,2.8125
+H12,Ridgeline Motor Inn,economy,2028,Billing and charges,29,1.5862068965517242
+H12,Ridgeline Motor Inn,economy,2028,Breakfast and food,24,3.7083333333333335
+H12,Ridgeline Motor Inn,economy,2028,Check-in and queue,21,2.6666666666666665
+H12,Ridgeline Motor Inn,economy,2028,Cleanliness,17,1.7647058823529411
+H12,Ridgeline Motor Inn,economy,2028,Stay exceeded expectations,31,4.67741935483871
+H12,Ridgeline Motor Inn,economy,2028,Group or family stay,11,3.6363636363636362
+H12,Ridgeline Motor Inn,economy,2028,Location and access,14,4.357142857142857
+H12,Ridgeline Motor Inn,economy,2028,Noise and sleep,24,2.0833333333333335
+H12,Ridgeline Motor Inn,economy,2028,Room condition,35,2.2857142857142856
+H12,Ridgeline Motor Inn,economy,2028,Service recovery,24,4.125
+H12,Ridgeline Motor Inn,economy,2028,Wifi and connectivity,19,2.210526315789474
+H13,Paloma Court Hotel,midscale,2027,Billing and charges,30,1.4333333333333333
+H13,Paloma Court Hotel,midscale,2027,Breakfast and food,44,3.6363636363636362
+H13,Paloma Court Hotel,midscale,2027,Check-in and queue,29,2.7586206896551726
+H13,Paloma Court Hotel,midscale,2027,Cleanliness,28,1.6071428571428572
+H13,Paloma Court Hotel,midscale,2027,Stay exceeded expectations,57,4.87719298245614
+H13,Paloma Court Hotel,midscale,2027,Group or family stay,13,4.230769230769231
+H13,Paloma Court Hotel,midscale,2027,Location and access,40,4.6
+H13,Paloma Court Hotel,midscale,2027,Noise and sleep,38,2.473684210526316
+H13,Paloma Court Hotel,midscale,2027,Room condition,50,2.54
+H13,Paloma Court Hotel,midscale,2027,Service recovery,50,4.36
+H13,Paloma Court Hotel,midscale,2027,Wifi and connectivity,26,2.923076923076923
+H13,Paloma Court Hotel,midscale,2028,Billing and charges,35,1.6
+H13,Paloma Court Hotel,midscale,2028,Breakfast and food,27,3.4444444444444446
+H13,Paloma Court Hotel,midscale,2028,Check-in and queue,38,2.8684210526315788
+H13,Paloma Court Hotel,midscale,2028,Cleanliness,40,1.65
+H13,Paloma Court Hotel,midscale,2028,Stay exceeded expectations,50,4.86
+H13,Paloma Court Hotel,midscale,2028,Group or family stay,20,4.25
+H13,Paloma Court Hotel,midscale,2028,Location and access,41,4.536585365853658
+H13,Paloma Court Hotel,midscale,2028,Noise and sleep,53,2.358490566037736
+H13,Paloma Court Hotel,midscale,2028,Room condition,62,2.435483870967742
+H13,Paloma Court Hotel,midscale,2028,Service recovery,32,4.34375
+H13,Paloma Court Hotel,midscale,2028,Wifi and connectivity,26,2.6538461538461537
+H14,Willowmere Lodge,upscale,2027,Billing and charges,26,1.5769230769230769
+H14,Willowmere Lodge,upscale,2027,Breakfast and food,34,3.735294117647059
+H14,Willowmere Lodge,upscale,2027,Check-in and queue,31,2.5806451612903225
+H14,Willowmere Lodge,upscale,2027,Cleanliness,22,1.2727272727272727
+H14,Willowmere Lodge,upscale,2027,Stay exceeded expectations,38,4.868421052631579
+H14,Willowmere Lodge,upscale,2027,Group or family stay,8,4.0
+H14,Willowmere Lodge,upscale,2027,Location and access,26,4.423076923076923
+H14,Willowmere Lodge,upscale,2027,Noise and sleep,27,2.5185185185185186
+H14,Willowmere Lodge,upscale,2027,Room condition,55,2.4363636363636365
+H14,Willowmere Lodge,upscale,2027,Service recovery,43,4.27906976744186
+H14,Willowmere Lodge,upscale,2027,Wifi and connectivity,24,2.5416666666666665
+H14,Willowmere Lodge,upscale,2028,Billing and charges,32,1.65625
+H14,Willowmere Lodge,upscale,2028,Breakfast and food,29,3.7586206896551726
+H14,Willowmere Lodge,upscale,2028,Check-in and queue,34,2.735294117647059
+H14,Willowmere Lodge,upscale,2028,Cleanliness,15,1.4666666666666666
+H14,Willowmere Lodge,upscale,2028,Stay exceeded expectations,51,4.901960784313726
+H14,Willowmere Lodge,upscale,2028,Group or family stay,16,4.3125
+H14,Willowmere Lodge,upscale,2028,Location and access,41,4.7073170731707314
+H14,Willowmere Lodge,upscale,2028,Noise and sleep,32,2.34375
+H14,Willowmere Lodge,upscale,2028,Room condition,36,2.361111111111111
+H14,Willowmere Lodge,upscale,2028,Service recovery,31,4.32258064516129
+H14,Willowmere Lodge,upscale,2028,Wifi and connectivity,28,2.5714285714285716
